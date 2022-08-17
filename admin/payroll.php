@@ -1,7 +1,7 @@
 <?php include 'includes/session.php'; ?>
 <?php
   include '../timezone.php';
-  $range_to = date('m/d/Y');
+  $range_to = date('m/d/Y'); 
   $range_from = date('m/d/Y', strtotime('-30 day', strtotime($range_to)));
 ?>
 <?php include 'includes/header.php'; ?>

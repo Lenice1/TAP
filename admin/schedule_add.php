@@ -1,5 +1,5 @@
 <?php
-	include 'includes/session.php';
+	include 'includes/session.php'; 
 
 	if(isset($_POST['add'])){
 		$time_in = $_POST['time_in'];

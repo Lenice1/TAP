@@ -1,5 +1,5 @@
 <?php
-	include 'includes/session.php';
+	include 'includes/session.php'; 
 	
 	$range = $_POST['date_range'];
 	$ex = explode(' - ', $range);

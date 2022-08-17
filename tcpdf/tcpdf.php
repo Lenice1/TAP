@@ -16,7 +16,6 @@ require_once(dirname(__FILE__).'/include/tcpdf_static.php');
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-/
 class TCPDF {
 
 	// Protected properties
